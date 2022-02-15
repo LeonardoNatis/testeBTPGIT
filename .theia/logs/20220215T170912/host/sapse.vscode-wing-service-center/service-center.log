@@ -1,0 +1,12 @@
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "Activating the 'vscode-wing-service-center' extension...",
+  "time": "2022-02-15T17:26:22.759Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "The 'vscode-wing-service-center' extension is active.",
+  "time": "2022-02-15T17:26:22.763Z"
+}

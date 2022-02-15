@@ -1,0 +1,8 @@
+[credential]
+	helper = /home/user/.bas-git/bas-git-helper-init.sh
+[user]
+	email = leonardo.natis@vertra.com.br
+	name = Leonardo Natis
+[credential "https://github.com"]
+	helper = store
+	helper = /home/user/.bas-git/bas-git-helper.sh
